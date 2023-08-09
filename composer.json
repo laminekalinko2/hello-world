@@ -1,0 +1,17 @@
+{
+    "name": "laminekalinko2/mmd-first-composer-pkg",
+    "description": "This is just a test package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Laminekalinko2\\MmdFirstComposerPkg\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lamine Diallo",
+            "email": "laminekalinko2@gmail.com"
+        }
+    ],
+    "require": {}
+}
